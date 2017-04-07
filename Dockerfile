@@ -7,3 +7,4 @@ RUN apk add --no-cache make gcc g++ python git curl
 
 RUN npm install -g aglio
 RUN npm install -g dredd
+RUN npm install -g optimusjs@0.1.8
